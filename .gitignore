@@ -34,3 +34,11 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+
+
+index.js
+dependenc.json
+CustomDrawerContent.jsx
+app_dup.json
+aaa.json
